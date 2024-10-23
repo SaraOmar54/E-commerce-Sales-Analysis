@@ -1,0 +1,12 @@
+1. E-commerce Sales Analysis
+
+Project Description:
+Analyzed sales data from an e-commerce platform to uncover trends and patterns. Performed exploratory data analysis to identify top-selling products, customer purchasing behaviors, and seasonal effects on sales.
+
+Key Features:
+- Data Cleaning: Removed duplicates, handled missing values, and formatted dates.
+- Analysis: Identified top products by revenue, customer segmentation, and sales trends by region.
+- Visualization: Bar charts for top products, heatmaps for regional sales, and line plots for monthly trends.
+
+Tech Stack:
+Python (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn)
